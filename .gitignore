@@ -1,0 +1,38 @@
+# Node / TypeScript
+node_modules/
+dist/
+build/
+coverage/
+.tmp/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Test / tooling caches
+.nyc_output/
+.jest/
+jest-cache/
+coverage-
+.cache/
+
+# Misc
+*.tgz
+*.tar.gz

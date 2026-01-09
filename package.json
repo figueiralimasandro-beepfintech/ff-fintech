@@ -1,0 +1,13 @@
+{
+  "name": "finora-backend",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Finora – fintech SaaS backend for financial clarity for micro and small businesses.",
+  "license": "MIT",
+  "scripts": {
+    "lint": "echo \"Add linting configuration when backend code is implemented\"",
+    "test": "echo \"Add tests when backend code is implemented\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
